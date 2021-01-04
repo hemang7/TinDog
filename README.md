@@ -1,1 +1,5 @@
-TinDog Starting Files
+TinDog 
+
+Tinder! but for dogs.
+
+https://tindog21.netlify.app/
